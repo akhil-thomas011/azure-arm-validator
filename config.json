@@ -1,0 +1,18 @@
+{
+  "comment": "You can either set these values as environment variables or to a file called '.config.json' at the root of the repo",
+  "AZURE_CLIENT_ID": "48a1c31c-6e7d-452b-82ea-3c5db0cc828f",
+  "AZURE_TENANT_ID": "9b91c8b0-63ac-4a63-a04f-f85705344f3d",
+  "AZURE_CLIENT_SECRET": "62G/0MO5B1oueEn6WdAWJqAv5oxPeVlcjEzHUsvA/yg=",
+  "AZURE_REGION": "westus",
+  "TEST_RESOURCE_GROUP_NAME": "azure_test_rg",
+  "RESOURCE_GROUP_NAME_PREFIX": "qstci-",
+  "MONGO_URL": "mongodb://localhost:27017/arm-validator",
+  "PARAM_REPLACE_INDICATOR": "GEN-UNIQUE",
+  "SSH_KEY_REPLACE_INDICATOR": "GEN-SSH-PUB_KEY",
+  "SSH_PUBLIC_KEY": "ssh-rsa create an ssh public key using ssh-keygen",
+  "PASSWORD_REPLACE_INDICATOR": "GEN-PASSWORD",
+  "GITHUB_REPO": "akhil-thomas011/sampletemplate",
+  "GITHUB_CLIENT_ID": "ab58698e342a823ed51e",
+  "GITHUB_CLIENT_SECRET": "a8f1621b2ccd83ef73debde31e9bc5c423c26e4d",
+  "AAD_CLIENT_ID_INDICATOR": "GEN-AAD"
+}
